@@ -22,7 +22,7 @@
     }
     .error .digit
     {
-        width: 150px;   /*Contrall*/
+        width: 150px;    /*Contrall*/
         height: 150px;  /*Contrall*/
         line-height: 150px; /*Contrall*/
         font-size: 120px;
